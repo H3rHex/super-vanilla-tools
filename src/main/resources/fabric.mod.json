@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "super-vanilla-tools",
+	"version": "${version}",
+	"name": "Super Vanilla Tools",
+	"description": "This is mod add new tools to the game, but they are super vanilla 3x3 use.",
+	"authors": [
+		"H3rHex"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/super-vanilla-tools/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.supervanillatools.SuperVanillaTools"
+		],
+		"client": [
+			"com.supervanillatools.client.SuperVanillaToolsClient"
+		],
+		"fabric-datagen": [
+			"com.supervanillatools.client.SuperVanillaToolsDataGenerator"
+		]
+	},
+	"mixins": [
+		"super-vanilla-tools.mixins.json",
+		{
+			"config": "super-vanilla-tools.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.18.6",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
