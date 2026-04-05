@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MMM",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "M": "minecraft:smooth_stone",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "supervanillatools:stone_area_pickaxe",
+    "count": 1
+  }
+}
+

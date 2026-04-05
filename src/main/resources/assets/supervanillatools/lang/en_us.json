@@ -1,0 +1,15 @@
+{
+  "itemGroup.supervanillatools": "SuperVanillaTools",
+  "item.supervanillatools.wooden_area_pickaxe": "Wooden Area Pickaxe",
+  "item.supervanillatools.wooden_area_shovel": "Wooden Area Shovel",
+  "item.supervanillatools.stone_area_pickaxe": "Stone Area Pickaxe",
+  "item.supervanillatools.stone_area_shovel": "Stone Area Shovel",
+  "item.supervanillatools.iron_area_pickaxe": "Iron Area Pickaxe",
+  "item.supervanillatools.iron_area_shovel": "Iron Area Shovel",
+  "item.supervanillatools.gold_area_pickaxe": "Gold Area Pickaxe",
+  "item.supervanillatools.gold_area_shovel": "Gold Area Shovel",
+  "item.supervanillatools.diamond_area_pickaxe": "Diamond Area Pickaxe",
+  "item.supervanillatools.diamond_area_shovel": "Diamond Area Shovel",
+  "item.supervanillatools.netherite_area_pickaxe": "Netherite Area Pickaxe",
+  "item.supervanillatools.netherite_area_shovel": "Netherite Area Shovel"
+}

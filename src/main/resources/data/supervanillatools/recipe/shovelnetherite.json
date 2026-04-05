@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:netherite_upgrade_smithing_template",
+  "base": "supervanillatools:diamond_area_shovel",
+  "addition": "minecraft:netherite_ingot",
+  "result": {
+    "id": "supervanillatools:netherite_area_shovel"
+  }
+}
+

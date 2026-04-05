@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "M",
+    "S",
+    "S"
+  ],
+  "key": {
+    "M": "minecraft:smooth_stone",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "supervanillatools:stone_area_shovel",
+    "count": 1
+  }
+}
+

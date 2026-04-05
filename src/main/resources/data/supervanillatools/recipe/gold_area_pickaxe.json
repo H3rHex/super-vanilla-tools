@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MMM",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "M": "minecraft:gold_block",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "supervanillatools:gold_area_pickaxe",
+    "count": 1
+  }
+}
+
